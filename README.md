@@ -1,6 +1,6 @@
-# 前端基础知识(面试题)，不断更新并补上对应的文章(答案)
+# 前端基础知识，不断更新并补上对应的文章(答案)
 
-### JavaScript
+## JavaScript
 -  let、const、var 的区别有哪些？- var可变量提升，可重复声明，无暂存死区，无块级作用域  
 -  [this详解](http://www.inode.club/webframe/javascript/this.html)
    ```js
@@ -459,6 +459,13 @@
 -  BEM  
 -  盒子模型
 
+
+## 浏览器
+-  [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+
+## 微前端
+-  [统一运营工作台的解决方案](https://mp.weixin.qq.com/s/xmcXz5GWSEYFy18APPHwlg)
+
 ## HTTP和HTTPS
 -  请求头Connection: keep-alive的优点
    + 较少的CPU和内存的使用（由于同时打开的连接的减少了）
@@ -474,6 +481,10 @@
 -  [JavaScript实现base64编码解码](https://www.cnblogs.com/mofish/archive/2012/02/25/2367858.html)
 
 
+## 自动化探索
+-  [Puppeteer 爬虫实践](https://mp.weixin.qq.com/s?__biz=MzI0NTE5NzYyMw==&mid=2247483769&idx=1&sn=f4d65fe8b60d8870b0a243ad5da48048&scene=21)
+
+
 ## 在线电子书
 -  [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 -  [Flutter完整开发实战详解](https://guoshuyu.cn/home/wx/)
@@ -482,10 +493,11 @@
 ## 工具/网站
 -  [Storybook](https://storybook.js.org/) - 一个方便管理和测试组件的开源工具，适用于 React, Vue, 和 Angular。
 -  [cypress](https://www.cypress.io/) - 更适合于前端工程师使用的自动化测试工具
-
+-  [Vue Datav](http://datav.jiaminghi.com/) - Vue 大屏数据展示组件库
 
 ## 其他
 -  前端代码开发完成，咱们是先上线页面，还是先上线静态资源？（消息摘要算法，http://web.jobbole.com/93678/)   
+-  [如何推动前端团队的基础设施建设](https://mp.weixin.qq.com/s/2VSa3xBpy5St8G1v0RjW9g)
 -  谈谈带团队，跟项目的经验  
    >> 团建(运动，聚会)，团队开源项目和blog，每周分享，每天站会，单独探讨
 -  IQ题和EQ题  
